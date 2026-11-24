@@ -1,0 +1,25 @@
+.i-a
+{
+    text-decoration: none;
+}
+.i-color
+{
+    color: #fff;
+    background-color: #2596be;
+}
+.i-btn
+{
+    padding: 10px 60px;
+}
+.hr-btn
+{
+  color: #fff;
+    background-color: #2596be;  
+}
+/* form validation */
+#SignUpForm p
+{
+    color: red;
+}
+
+/* employee page */
